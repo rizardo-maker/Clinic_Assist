@@ -73,7 +73,7 @@ const Footer = () => {
                   <ExternalLink className="h-3 w-3" />
                 </a>
                 <div className="text-small text-muted">
-                  <strong>Hackathon ID:</strong> SIH-2024-HC-001
+                  <strong>Hackathon ID:</strong> SIH-2025-25049
                 </div>
               </div>
             </div>
@@ -107,7 +107,7 @@ const Footer = () => {
         <div className="py-6 border-t border-border/50">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="text-small text-muted text-center md:text-left">
-              © 2024 ClinicAssist. Built with privacy and care.
+              © 2025 ClinicAssist. Built with privacy and care.
             </div>
             
             <div className="text-small text-muted text-center md:text-right">
