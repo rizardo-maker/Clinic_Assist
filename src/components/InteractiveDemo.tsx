@@ -247,10 +247,11 @@ Doctor: Let me examine you. Based on your symptoms, I'd like to prescribe some m
 
             {/* Fallback Video Option */}
             <div className="mt-8 pt-6 border-t border-border/50 text-center">
-              <Button variant="outline" className="border-muted text-muted hover:bg-muted/10">
+              <a href="https://youtu.be/tesd7LZSSPY?si=QvLTNT2USYKC38SA"
+>              <Button  variant="outline" className="border-muted text-muted hover:bg-muted/10">
                 <Play className="mr-2 h-4 w-4" />
                 Play Demo Video (Alternative)
-              </Button>
+              </Button></a>
             </div>
           </div>
         </div>
