@@ -3,42 +3,42 @@ import { Brain, Code, Palette, Database, Smartphone, Users } from 'lucide-react'
 const Team = () => {
   const teamMembers = [
     {
-      name: 'Alex Chen',
+      name: 'Jnanendra',
       role: 'AI/ML Engineer',
       icon: Brain,
       description: 'Whisper integration, speaker separation, LLM pipelines',
       color: 'text-primary'
     },
     {
-      name: 'Priya Sharma',
+      name: 'Dhanaraju',
       role: 'Backend Developer',
       icon: Database,
       description: 'Privacy architecture, local processing, API design',
       color: 'text-secondary'
     },
     {
-      name: 'Raj Patel',
+      name: 'Vamsi Krishna',
       role: 'Frontend Developer',
       icon: Code,
       description: 'React interface, demo interactions, responsive design',
       color: 'text-neon-glow'
     },
     {
-      name: 'Sarah Kim',
+      name: 'Tejaswini',
       role: 'Integration Specialist',
       icon: Smartphone,
       description: 'HIMS adapters, WhatsApp integration, export formats',
       color: 'text-primary'
     },
     {
-      name: 'Maya Gupta',
+      name: 'Trisha',
       role: 'UX Designer',
       icon: Palette,
       description: 'User research, clinical workflows, interface design',
       color: 'text-secondary'
     },
     {
-      name: 'David Wong',
+      name: 'Ravi Teja Reddy',
       role: 'Product Manager',
       icon: Users,
       description: 'Strategy, stakeholder alignment, go-to-market',
